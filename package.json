@@ -1,11 +1,6 @@
 {
-  "name": "simple-node-api",
+  "name": "simple-vercel-api",
   "version": "1.0.0",
-  "description": "API simples em Node.js sem framework",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "author": "",
-  "license": "ISC"
+  "description": "API simples para deploy na Vercel usando Serverless Functions",
+  "private": true
 }
